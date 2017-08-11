@@ -27,7 +27,7 @@ $ brew install carthage
 
 To integrate Swrve into your Xcode project using Carthage, specify it in your `Cartfile`:
 
-Create a [Cartfile][] in the root of your project and add the following line:
+Create a `Cartfile` in the root of your project and add the following line:
 
 ```ogdl
 github "KevBrodigan/swrve-ios-sdk" "carthage"
